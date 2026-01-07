@@ -1,0 +1,2 @@
+# Exclude docs folder from Godot export
+# This file tells Godot not to include this folder when exporting the game
